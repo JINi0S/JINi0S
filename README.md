@@ -1,6 +1,7 @@
 <h3 align="center">iOS Developer, Jinhee Lee</h3>
  
-<sub> <a href="https://jinios.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub> <a href="https://www.linkedin.com/in/leejinhee990921/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJINi0S%2Fhit-counter&count_bg=%234F6CCB&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=방문자수&edge_flat=false"/>
+<!--<sub> <a href="https://jinios.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub> -->
+<a href="https://www.linkedin.com/in/leejinhee990921/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJINi0S%2Fhit-counter&count_bg=%234F6CCB&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=방문자수&edge_flat=false"/>
 
 <h3>Languages</h3>
 <p align="left"> 
