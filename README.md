@@ -57,8 +57,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
+  <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>  -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -72,7 +72,8 @@
 &nbsp;
 
 <!--<sub> <a href="https://jinios.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub> -->
-<a href="https://www.linkedin.com/in/leejinhee990921/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJINi0S%2Fhit-counter&count_bg=%234F6CCB&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=방문자수&edge_flat=false"/>
+<a href="https://www.linkedin.com/in/leejinhee990921/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>  
+<!--<img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJINi0S%2Fhit-counter&count_bg=%234F6CCB&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=방문자수&edge_flat=false"/> -->
 
 ![JINi0S's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINi0S&show_icons=true&theme=tokyonight)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wlsgml8847)](https://solved.ac/wlsgml8847)
